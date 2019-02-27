@@ -13,7 +13,7 @@
      * VBA (in the first year of university);
      * Photoshop, CorelDraw.
 5. Code examples - it's parts of my diploma:
-    * Navbar:
+   * Navbar:
 ```
             <nav class="navbar navbar-expand-lg navbar-light bg-light mb-2">
                 <a class="navbar-brand" href="index.html"><h1>Sport with us</h1></a>
