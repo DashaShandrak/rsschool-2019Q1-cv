@@ -1,19 +1,19 @@
 # Resume
 
 1. Dasha Shandrak;
-2. E-mail: [d.shandrak@yandex.by](d.shandrak@yandex.by); phone: +375291939960; vk: [https://vk.com/dashka_158](https://vk.com/dashka_158);
+2. E-mail: d.shandrak@yandex.by; phone: +375291939960; vk: [https://vk.com/dashka_158](https://vk.com/dashka_158);
 3. I am fond of studying, I finished school with honors, and in the university my academic performance is above average. I am the author of several scientific students’ works. I don’t need to persuade to study, because I know it’s only for me. Now my goal is to successfully complete the course from The Rolling Scopes School and get a job;
 4. Skills:
-     *HTML;
-     *CSS;
-     *JS (first level);
-     *PHP (first level);
-     *MySQL (first level);
-     *Bootstrap (first level);
-     *VBA (in the first year of university);
-     *Photoshop, CorelDraw.
+     * HTML;
+     * CSS;
+     * JS (first level);
+     * PHP (first level);
+     * MySQL (first level);
+     * Bootstrap (first level);
+     * VBA (in the first year of university);
+     * Photoshop, CorelDraw.
 5. Code examples - it's parts of my diploma:
-   1. Navbar:
+    * Navbar:
 ```
             <nav class="navbar navbar-expand-lg navbar-light bg-light mb-2">
                 <a class="navbar-brand" href="index.html"><h1>Sport with us</h1></a>
@@ -61,7 +61,7 @@
                 </div> 
            </nav>
 ```
-   2. Slide show:
+   * Slide show:
 ```
            <div class="row mb-3">
               <div class="col">
